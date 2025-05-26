@@ -1,0 +1,16 @@
+```css
+body {
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+background-color: #f9f9f9;
+}
+
+.image-container img {
+max-width: 100%;
+height: auto;
+display: block;
+}
